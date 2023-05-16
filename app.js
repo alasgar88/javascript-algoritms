@@ -44,3 +44,11 @@ import { timeConvert } from './easy/11_time_convert.js';
 import { alphabetSoup } from './easy/12_alphabet_soap.js';
 
 // console.log(alphabetSoup('hello'));
+
+import { abCheck } from './easy/13_ab_check.js';
+
+// console.log(abCheck('lneadborrbaow b '));
+
+import { vowelCount } from './easy/14_vowel_count.js';
+
+console.log(vowelCount('All cows eat grass'));
