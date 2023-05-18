@@ -51,4 +51,24 @@ import { abCheck } from './easy/13_ab_check.js';
 
 import { vowelCount } from './easy/14_vowel_count.js';
 
-console.log(vowelCount('All cows eat grass'));
+// console.log(vowelCount('All cows eat grass'));
+
+import { wordCount } from './easy/15_word_count.js';
+
+// console.log(wordCount(' Never eat shredded wheat '));
+
+import { exOh } from './easy/16_ex_oh.js';
+
+// console.log(exOh('xooxxxxooxo'));
+
+import { isPalindrome } from './easy/17_is_palindrome.js';
+
+// console.log(isPalindrome('racecar?.'));
+
+import { arithGeo } from './easy/18_arith_geo.js';
+
+// console.log(arithGeo([2, 6, 18, 54]));
+
+import { arrayAddition } from './easy/19_array_addition.js';
+
+console.log(arrayAddition([4, 6, 23, 10, 1, 2]));
