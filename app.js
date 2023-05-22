@@ -71,4 +71,24 @@ import { arithGeo } from './easy/18_arith_geo.js';
 
 import { arrayAddition } from './easy/19_array_addition.js';
 
-console.log(arrayAddition([4, 6, 23, 10, 1, 2]));
+// console.log(arrayAddition([4, 6, 23, 10, 1, 2]));
+
+import { letterCount } from './easy/20_letter_count.js';
+
+// console.log(letterCount('Today, is the greatest day ever!'));
+
+import { secondGreatLow } from './easy/21_second_great_low.js';
+
+// console.log(secondGreatLow([7, 7, 12, 98, 106, 11]));
+
+import { divisionStringified } from './easy/22_division_stringified.js';
+
+// console.log(divisionStringified(123456789, 1000));
+
+import { countingMinutes } from './easy/23_counting_minutes.js';
+
+// console.log(countingMinutes('10:00am-09:00am'));
+
+import { meanMode } from './easy/24_mean_mode.js';
+
+console.log(meanMode([5, 3, 3, 3, 1]));
